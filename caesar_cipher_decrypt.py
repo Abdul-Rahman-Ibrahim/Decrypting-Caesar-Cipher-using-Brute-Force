@@ -45,4 +45,4 @@ class CaeserCipher:
         print(decrypted_msg)
         enc_file.close()
 c = CaeserCipher()
-c.decrypt("enc.txt")
+c.decrypt("encrypted_text.txt")
