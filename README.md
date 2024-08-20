@@ -36,10 +36,15 @@ This Python script is designed to decrypt text encrypted with a Caesar Cipher by
 
 If `words.txt` contains:
 hello
+
 world
+
 this
+
 is
+
 a
+
 test
 
 
@@ -48,6 +53,7 @@ Khoor zruog!
 
 
 The script will detect that the best key is `3` and will output:
+
 Hello world!
 
 
